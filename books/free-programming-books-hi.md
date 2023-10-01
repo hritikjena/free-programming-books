@@ -1,7 +1,10 @@
 ### Index
 
+* [C](#c)
 * [C++](#cpp)
 * [Data Structure and Algorithms](#data-structure-and-algorithms)
+* [Digital Electronic](#digital-electronic)
+* [HTML](HTML)
 * [Java](#java)
 * [Linux](#linux)
 * [Networking](#networking)
@@ -26,6 +29,16 @@
 ### Data Structure and Algorithms
 
 * [Data Structure with C \| Hindi](http://www.bccfalna.com/IOC-AllEBooks/DSnAinHindi.pdf) - Kuldeep Chand (PDF)
+
+
+### Digital Electronic
+
+* [Digital Electronic \| Hindi](https://javahindi.com/2021/02/03/digital-electronic-notes-in-hindi/) - javahindi.com (WebPage)
+
+
+### HTML
+
+* [HTML \| Hindi](https://tutorialpandit.com/html-tutorial-in-hindi/) - tutorialpandit.com (WebPage)
 
 
 ### Java
